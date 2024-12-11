@@ -11,7 +11,13 @@
         "memory": "cpp",
         "optional": "cpp",
         "system_error": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "iterator": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "xmemory": "cpp",
+        "xutility": "cpp",
+        "utility": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
