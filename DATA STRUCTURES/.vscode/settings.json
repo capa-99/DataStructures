@@ -23,7 +23,8 @@
         "istream": "cpp",
         "streambuf": "cpp",
         "tuple": "cpp",
-        "xiosbase": "cpp"
+        "xiosbase": "cpp",
+        "limits": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
