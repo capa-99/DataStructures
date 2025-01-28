@@ -24,7 +24,10 @@
         "streambuf": "cpp",
         "tuple": "cpp",
         "xiosbase": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "format": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
